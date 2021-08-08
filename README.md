@@ -25,6 +25,10 @@ Freatures
 The V1 bots are based on [Impact with Bariton] and a python script.
 Statistics are collected from a [InfluxDB] cloud storage and visualized for the pulic with [Grafana].
 
+## Bans
+Some Players are already banned from service. This potentially happens when players killing a bot and the developer observed it.
+So there is always a chance getting banned, be kind to the bots. Contact the developer [in Discord ch3fh3tz#0964] if you feel your ban was not reasonable.
+
 # Ch3f_Bot V2 
 Ch3f_Bot V2 is currently under development. As soon V2 is available V1 will be public.
 
