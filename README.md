@@ -33,6 +33,10 @@ Statistics are collected from a [InfluxDB] cloud storage and visualized for the 
 Some Players are already banned from service. This potentially happens when players killing a bot and the developer observed it.
 So there is always a chance getting banned, be kind to the bots. Contact the developer [in Discord ch3fh3tz#0964] if you feel your ban was not reasonable.
 
+# Pictures
+![0B0T Plusx 29.6.2021](https://ibb.co/MsZXpKx)
+![0B0T Plusx 29.6.2021](https://ibb.co/FBCjFRC)
+
 # Ch3f_Bot V2 
 Ch3f_Bot V2 is currently under development. As soon V2 is available V1 will be public.
 
@@ -44,3 +48,5 @@ Ch3f_Bot V2 is currently under development. As soon V2 is available V1 will be p
    [InfluxDB]: <https://www.influxdata.com/products/influxdb-cloud/>
    [Grafana]: <https://grafana.com/>
    [in Discord ch3fh3tz#0964]: <ch3fh3tz#0964>
+   
+   
