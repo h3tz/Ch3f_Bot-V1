@@ -16,7 +16,7 @@ Freatures
 
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS |
 | ------ | ------ |------ |------ |------ |
-| 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA| https://bit.ly/3yxdE2x [https://bit.ly/3yxdE2x ][0b0t_bot_01]
+| 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA| https://bit.ly/3yxdE2x [0b0t_bot_01]
 | 0B0T.org | Ch3f_bot_02 | running to Worldborder -x | |
 | 0B0T.org | Ch3f_bot_03 | running to Worldborder z | |
 | 0B0T.org | Ch3f_bot_04 | running to Worldborder -z | |
