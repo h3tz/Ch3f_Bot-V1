@@ -9,6 +9,7 @@ to allow Auto TPA to extraordinary places.
 
 Freatures 
 * TPA: Accept TPA request if player is not on ban list
+* V1 Bots can be used with any Hack Client
 
 Conversation 
 * !where: to get the potential position of the bot
