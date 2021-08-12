@@ -20,7 +20,7 @@ Conversation
 ## Active Bots 
 
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
-| ------ | ------ |------ |------ |------ |
+| ------ | ------ |------ |------ |------ |------ |
 | 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 1521 Total Kill: 520|10.07.2021|
 | 0B0T.org | Ch3f_bot_02 | running to Worldborder -x | | |
 | 0B0T.org | Ch3f_bot_03 | running to Worldborder z | | |
