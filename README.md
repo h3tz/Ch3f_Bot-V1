@@ -15,7 +15,10 @@ Conversation
 * !where: to get the potential position of the bot
 * !id: get more information about the bot
 
-
+## Supporter
+BreakfastBanana
+LaFlame
+(Contact me if i missed you)
 
 ## Active Bots 
 
