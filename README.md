@@ -16,8 +16,8 @@ Conversation
 * !id: get more information about the bot
 
 ## Supporter
-BreakfastBanana
-LaFlame
+*BreakfastBanana
+*LaFlame
 (Contact me if i missed you)
 
 ## Active Bots 
