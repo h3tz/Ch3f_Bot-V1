@@ -14,6 +14,7 @@ Freatures
 Conversation 
 * !where: to get the potential position of the bot
 * !id: get more information about the bot
+* !kd: death count
 
 ## Supporter
 *BreakfastBanana
