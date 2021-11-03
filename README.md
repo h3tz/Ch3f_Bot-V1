@@ -1,5 +1,5 @@
 # Ch3f_Bot V1
-Updated 09.10.2021
+Updated 03.11.2021
 > Don't forget Ch3f_Bots are kind. 
 If not contact the developer [in Discord ch3fh3tz#0964]
 ## Another Minecraft Bot 
@@ -25,10 +25,10 @@ Conversation
 
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
 | ------ | ------ |------ |------ |------ |------ |
-| 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 3308 Total Kill: 903|10.07.2021|
-| 0B0T.org | Ch3f_bot_02 | Worldborder -x | TPA | Total TPA: 258 Total Kill: 121|17.08.2021|
+| 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 3413 Total Kill: 955|10.07.2021|
+| 0B0T.org | Ch3f_bot_02 | Worldborder -x | TPA | Total TPA: 841 Total Kill: 261|17.08.2021|
 | 0B0T.org | Ch3f_bot_03 | Worldborder -z | TPA | Total TPA: 1 Total Kill: 1|09.10.2021| |
-| 0B0T.org | Ch3f_bot_04 | running to Worldborder -z | | |
+| 0B0T.org | Ch3f_bot_04 | running to Worldborder +z | | |
 
 ## Tech
 The V1 bots are based on [Impact with Bariton] and a python script.
