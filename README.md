@@ -1,5 +1,5 @@
 # Ch3f_Bot V1
-Updated 03.11.2021
+Updated 20.12.2021
 > Don't forget Ch3f_Bots are kind. 
 If not contact the developer [in Discord ch3fh3tz#0964]
 ## Another Minecraft Bot 
@@ -25,10 +25,17 @@ Conversation
 
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
 | ------ | ------ |------ |------ |------ |------ |
-| 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 3413 Total Kill: 955|10.07.2021|
+| 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 4413 Total Kill: 955|10.07.2021|
 | 0B0T.org | Ch3f_bot_02 | Worldborder -x | TPA | Total TPA: 841 Total Kill: 261|17.08.2021|
 | 0B0T.org | Ch3f_bot_03 | Worldborder -z | TPA | Total TPA: 1 Total Kill: 1|09.10.2021| |
-| 0B0T.org | Ch3f_bot_04 | running to Worldborder +z | | |
+| 0B0T.org | Ch3f_bot_04 | Worldborder -z | TPA | Total TPA: 219 Total Kill: 76|10.11.2021| |
+| 0B0T.org | Ch3f_bot_04 | Spawn | TPA | Total TPA: 816 Total Kill: 1090|10.11.2021| |
+
+All 0B0T bots are offline starting from 20.12.2021 after a servers chat update. Also server admins are not willing to talk.
+
+| SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
+| ------ | ------ |------ |------ |------ |------ |
+| your suggestion | Ch3f_bot_01 |- | TPA | -|-|
 
 ## Tech
 The V1 bots are based on [Impact with Bariton] and a python script.
