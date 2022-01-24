@@ -17,8 +17,9 @@ Conversation
 * !kd: death count
 
 ## Supporter
-*BreakfastBanana
-*LaFlame
+* BreakfastBanana
+* LaFlame
+* Elite_Tez
 (Contact me if i missed you)
 
 ## Active Bots 
