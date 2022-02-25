@@ -1,5 +1,6 @@
 # Ch3f_Bot V1
-Updated 24.01.2021
+Updated 25.02.2021
+V2 development startet. V1 Code will be available soon
 > Don't forget Ch3f_Bots are kind. 
 If not contact the developer [in Discord ch3fh3tz#0964]
 ## Another Minecraft Bot 
