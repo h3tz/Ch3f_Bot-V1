@@ -1,5 +1,5 @@
 # Ch3f_Bot V1
-Updated 25.02.2021
+Updated 09.05.2023
 V2 development startet. V1 Code will be available soon
 > Don't forget Ch3f_Bots are kind. 
 If not contact the developer [in Discord ch3fh3tz#0964]
@@ -24,18 +24,17 @@ Conversation
 (Contact me if i missed you)
 
 ## Active Bots 
-Due to ressources in parallel only 2 bots are online.
+Due to ressources in parallel only 1 bots is online (09.05.2023). Back in the days 2021 4 run.
 
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
 | ------ | ------ |------ |------ |------ |------ |
-| 0B0T.org | Ch3f_bot_01 | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 4413 Total Kill: 955|10.07.2021|
-| 0B0T.org | Ch3f_bot_02 | Worldborder -x | TPA | Total TPA: 1577 Total Kill: 444|17.08.2021|
-| 0B0T.org | Ch3f_bot_03 | Worldborder -z | TPA | Total TPA: 1194 Total Kill: 341|09.10.2021| |
-| 0B0T.org | Ch3f_bot_04 | Worldborder -z!x | TPA | Total TPA: 219 Total Kill: 76|10.11.2021| |
-| 0B0T.org | Ch3f_bot_04 | Spawn | TPA | Total TPA: 525 Total Kill: 234|10.11.2021| |
+| 0B0T.org | offline | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 4413 Total Kill: 955|10.07.2021|
+| 0B0T.org | Ch3f_bot_03 | Worldborder -x | TPA | Total TPA: 1835 Total Kill: 104|09.05.2023|
+| 0B0T.org | offline | Worldborder -z | TPA | Total TPA: 1194 Total Kill: 341|09.10.2021| |
+| 0B0T.org | offline | Worldborder -z!x | TPA | Total TPA: 219 Total Kill: 76|10.11.2021| |
+| 0B0T.org | offline | Spawn | TPA | Total TPA: 525 Total Kill: 234|10.11.2021| |
 
-All 0B0T bots are offline starting from 20.12.2021 after a servers chat update. Also server admins are not willing to talk.
-Bots are back since 02.01.2022
+Bots are back since 08.05.2023
 
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
 | ------ | ------ |------ |------ |------ |------ |
@@ -54,7 +53,7 @@ So there is always a chance getting banned, be kind to the bots. Contact the dev
 [0B0T Worldborder +x 29.6.2021](https://ibb.co/FBCjFRC)
 
 # Ch3f_Bot V2 
-Ch3f_Bot V2 is currently under development. As soon V2 is available V1 will be public.
+Ch3f_Bot V2 is currently under development. As soon V2 is available V1 will be public. (09.05.2023 still on hold)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
