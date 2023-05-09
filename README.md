@@ -29,7 +29,7 @@ Due to ressources in parallel only 1 bots is online (09.05.2023). Back in the da
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
 | ------ | ------ |------ |------ |------ |------ |
 | 0B0T.org | offline | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 4413 Total Kill: 955|10.07.2021|
-| 0B0T.org | Ch3f_bot_03 | Worldborder -x | TPA | Total TPA: 1835 Total Kill: 104|09.05.2023|
+| 0B0T.org | Ch3f_bot_03 | Worldborder -x | TPA | Total TPA: 1835 Total Kill: 104|09.10.2021|
 | 0B0T.org | offline | Worldborder -z | TPA | Total TPA: 1194 Total Kill: 341|09.10.2021| |
 | 0B0T.org | offline | Worldborder -z!x | TPA | Total TPA: 219 Total Kill: 76|10.11.2021| |
 | 0B0T.org | offline | Spawn | TPA | Total TPA: 525 Total Kill: 234|10.11.2021| |
