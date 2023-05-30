@@ -16,6 +16,7 @@ Conversation
 * !where: to get the potential position of the bot
 * !id: get more information about the bot
 * !kd: death count
+* !help: show some commands
 
 ## Supporter
 * BreakfastBanana
@@ -24,14 +25,14 @@ Conversation
 (Contact me if i missed you)
 
 ## Active Bots 
-Due to ressources in parallel only 1 bots is online (09.05.2023). Back in the days 2021 4 run.
+Due to ressources in parallel only 2 bots are online (09.05.2023). Back in the days 2021 4.
 
 | SERVER | NAME | LOCATAION | FEATURES | STATISTICS | Active since |
 | ------ | ------ |------ |------ |------ |------ |
 | 0B0T.org | offline | Worldborder +x | TPA | https://bit.ly/3yxdE2x Total TPA: 4413 Total Kill: 955|10.07.2021|
-| 0B0T.org | Ch3f_bot_03 | Worldborder -x | TPA | Total TPA: 1835 Total Kill: 104|09.10.2021|
+| 0B0T.org | Ch3fbot_03 | Worldborder -x | TPA | Total TPA: 1835 Total Kill: 104|09.10.2021|
 | 0B0T.org | offline | Worldborder -z | TPA | Total TPA: 1194 Total Kill: 341|09.10.2021| |
-| 0B0T.org | offline | Worldborder -z!x | TPA | Total TPA: 219 Total Kill: 76|10.11.2021| |
+| 0B0T.org | Ch3fbot_05  | Worldborder -z!x | TPA | Total TPA: 219 Total Kill: 76|10.11.2021| |
 | 0B0T.org | offline | Spawn | TPA | Total TPA: 525 Total Kill: 234|10.11.2021| |
 
 Bots are back since 08.05.2023
@@ -42,7 +43,7 @@ Bots are back since 08.05.2023
 
 ## Tech
 The V1 bots are based on [Impact with Bariton] and a python script.
-Statistics are collected from a [InfluxDB] cloud storage and visualized for the pulic with [Grafana].
+Statistics are collected from a [InfluxDB] cloud storage and visualized for the public with [Grafana].
 
 ## Bans
 Some Players are already banned from service. This potentially happens when players killing a bot and the developer observed it.
