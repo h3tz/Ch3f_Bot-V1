@@ -1,6 +1,6 @@
 # Ch3f_Bot V1
-Updated 09.05.2023
-V2 development startet. V1 Code will be available soon
+Updated 25.06.2023
+V2 finished. New Project: [chefbot_2]
 > Don't forget Ch3f_Bots are kind. 
 If not contact the developer [in Discord ch3fh3tz#0964]
 ## Another Minecraft Bot 
@@ -64,5 +64,5 @@ Ch3f_Bot V2 is currently under development. As soon V2 is available V1 will be p
    [InfluxDB]: <https://www.influxdata.com/products/influxdb-cloud/>
    [Grafana]: <https://grafana.com/>
    [in Discord ch3fh3tz#0964]: <ch3fh3tz#0964>
-   
+   [chefbot_2]: <https://github.com/h3tz/ch3fbot_V2>
    
